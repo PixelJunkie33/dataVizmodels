@@ -8,7 +8,7 @@ Welcome to the Data Visualization and Modeling Examples Repository! This reposit
 
 The repository is organized as follows:
 
-- `/notebooks`: This directory contains Jupyter notebooks that demonstrate different data visualization techniques and modeling approaches. Each notebook is self-contained and provides step-by-step explanations and code examples.
+- `/dataVizmodels`: This directory contains Jupyter notebooks that demonstrate different data visualization techniques and modeling approaches. Each notebook is self-contained and provides step-by-step explanations and code examples.
 
 ## Usage
 
@@ -16,7 +16,7 @@ To explore the notebooks and run the code examples locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/data-visualization-examples.git
+   git clone https://github.com/Scoubershare/dataVizmodels.git
    ```
 
 2. Install the necessary dependencies by running:
